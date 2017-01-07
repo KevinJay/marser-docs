@@ -13,3 +13,7 @@
 | 内容 | 内容 |
 | ------ |:------|
 | [Phalcon安装步骤](http://www.marser.cn/article/127.html) | [云服务器编译安装Phalcon失败](http://www.marser.cn/article/106.html) |
+| [PhalconCMS](http://www.marser.cn/article/125.html) | [PhalconCMS源码解析之多模块](http://www.marser.cn/article/126.html) |
+| [zendstudio识别Phalcon语法及提示](http://www.marser.cn/article/69.html) | [phpstorm识别Phalcon语法及提示](http://www.marser.cn/article/103.html) |
+
+ 
